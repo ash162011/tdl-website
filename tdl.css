@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/361/537/small/pink-watercolor-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1 {
+    font-family:Shadows Into Light;
+    font-size: 70;
+    color:#cba37b;
+}
+
+  #textInput {
+    width: 350;
+    height: 50;
+    border-radius: 100px;
+    font-size: 30;
+    border: none;
+    padding: 10;
+  }
+
+  #addBtn {
+    font-size: 40;
+    border-radius: 100px;
+    width: 50;
+    width: 50;
+    background:#be905c;
+    border: none;
+    color: wheat;
+  }
+ 
+  #todoWrap {
+    font-size: 30;
+    color: #c09d72;
+    font-family: Lobster;
+  }
+
